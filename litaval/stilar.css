@@ -15,9 +15,9 @@ body {
 	align-items: center;
 	align-content: center;
 }
-.sumar h1 {
+.sumar {
 	font-size: 5em;
-	color: #ffa;
+	color: grey;
 }
 .haust {
 	display: none;
@@ -28,4 +28,3 @@ body {
 .vetur {
 	display: none;
 }
-
